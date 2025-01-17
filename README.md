@@ -1,0 +1,1 @@
+This repository demonstrates a common error in F# involving mutable variables and infinite recursion. The `bug.fs` file contains code that exhibits this problem. The `bugSolution.fs` file offers a corrected version.
